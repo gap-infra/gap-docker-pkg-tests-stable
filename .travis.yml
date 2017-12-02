@@ -33,6 +33,7 @@ env:
 - PKG_NAME=orb
 - PKG_NAME=patternclass
 - PKG_NAME=permut
+- PKG_NAME=polenta
 - PKG_NAME=qpa
 - PKG_NAME=rcwa
 - PKG_NAME=resclasses
@@ -43,7 +44,7 @@ env:
 - PKG_NAME=toric
 - PKG_NAME=unitlib
 - PKG_NAME=utils
-- PKG_NAME=wedderga
+- PKG_NAME=xmod
 
 services:
   - docker
