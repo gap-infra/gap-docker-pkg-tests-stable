@@ -4,6 +4,7 @@ language: c
 
 env:
 - PKG_NAME=ace
+- PKG_NAME=anupq
 - PKG_NAME=automgrp
 - PKG_NAME=browse
 - PKG_NAME=circle
