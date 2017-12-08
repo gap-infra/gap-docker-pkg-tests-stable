@@ -4,6 +4,7 @@ language: c
 
 env:
 - PKG_NAME=ace
+- PKG_NAME=alnuth
 - PKG_NAME=anupq
 - PKG_NAME=automgrp
 - PKG_NAME=browse
@@ -28,6 +29,7 @@ env:
 - PKG_NAME=kan
 - PKG_NAME=laguna
 - PKG_NAME=modisom
+- PKG_NAME=normalizinterface
 - PKG_NAME=nq
 - PKG_NAME=numericalsgps
 - PKG_NAME=openmath
