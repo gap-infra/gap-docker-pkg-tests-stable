@@ -19,6 +19,7 @@ env:
     - PKG_NAME=alnuth
     - PKG_NAME=anupq
     - PKG_NAME=automgrp
+    - PKG_NAME=browse
     - PKG_NAME=circle
     - PKG_NAME=cohomolo
     - PKG_NAME=congruence
@@ -34,11 +35,14 @@ env:
     - PKG_NAME=grape
     - PKG_NAME=groupoids
     - PKG_NAME=guava
+    - PKG_NAME=help
+    - PKG_NAME=idrel
     - PKG_NAME=intpic
     - PKG_NAME=irredsol
     - PKG_NAME=json
     - PKG_NAME=kan
     - PKG_NAME=laguna
+    - PKG_NAME=lpres
     - PKG_NAME=modisom
     - PKG_NAME=normalizinterface
     - PKG_NAME=numericalsgps
@@ -51,6 +55,7 @@ env:
     - PKG_NAME=rcwa
     - PKG_NAME=resclasses
     - PKG_NAME=scscp
+    - PKG_NAME=semigroups
     - PKG_NAME=simpcomp
     - PKG_NAME=smallsemi
     - PKG_NAME=spinsym
