@@ -35,6 +35,7 @@ env:
     - PKG_NAME=grape
     - PKG_NAME=groupoids
     - PKG_NAME=guava
+    - PKG_NAME=hap
     - PKG_NAME=help
     - PKG_NAME=idrel
     - PKG_NAME=intpic
